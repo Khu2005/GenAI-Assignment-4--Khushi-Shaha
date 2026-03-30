@@ -1,0 +1,5 @@
+Mouse: Original Price: 500, Discounted Price: 425.0
+Keyboard: Original Price: 800, Discounted Price: 680.0
+Monitor: Original Price: 7000, Discounted Price: 5950.0
+Pendrive: Original Price: 400, Discounted Price: 340.0
+Camera: Original Price: 5000, Discounted Price: 4250.0
